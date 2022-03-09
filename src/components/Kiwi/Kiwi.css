@@ -1,0 +1,19 @@
+.containerFour {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-style: solid;
+    border-radius: 15px;
+    margin-right: 1000px;
+    margin-bottom: 10px;
+}
+.buttonFour {
+    display: flex;
+    border-radius: 10px;
+    justify-content: space-around;
+    align-items: center;
+    height: 10px;
+    width: 50px;
+    padding: 15px;
+    margin: 15px;
+}
